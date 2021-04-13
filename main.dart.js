@@ -51421,7 +51421,7 @@ aJ:function(){return new T.DV(C.m)}}
 T.DV.prototype={
 NN:function(){var s=D.ahr(0)
 return new D.rr(C.l,s,new G.Vj(new T.Xn(),null),null)},
-O:function(a,b){var s=L.tO("BookBang!",null)
+O:function(a,b){var s=L.tO("Scope",null)
 return new M.t8(new E.pj(s,new P.a0(1/0,56),null),this.NN(),null)}}
 T.Xn.prototype={
 $2:function(a,b){return new K.k2(null)},
