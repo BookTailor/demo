@@ -8,15 +8,15 @@ const RESOURCES = {
 "assets/packages/cupertino_icons/assets/CupertinoIcons.ttf": "6d342eb68f170c97609e9da345464e5e",
 "assets/packages/wakelock_web/assets/no_sleep.js": "7748a45cd593f33280669b29c2c8919a",
 "assets/AssetManifest.json": "62d5b309766803222978f589168a5e54",
-"assets/NOTICES": "a7777a7c7b7687beb6dfe228ae908f6f",
+"assets/NOTICES": "44da1cade6692546870440e86f6e7aab",
 "icons/Icon-512.png": "96e752610906ba2a93c65f8abe1645f1",
 "icons/Icon-192.png": "ac9a721a12bbc803b44f645561ecb1e1",
 "favicon.png": "5dcef449791fa27946b3d35ad8803796",
 "version.json": "83ed9fc4e63d3f02903b3b6a2fc5c7d6",
 "manifest.json": "87740a2517522550cb237a902d6af258",
-"main.dart.js": "64be0899e94521168af0b08d4c3fed66",
-"index.html": "04110e46bfbf407422b951524c2551cb",
-"/": "04110e46bfbf407422b951524c2551cb"
+"main.dart.js": "421bd8742d0bd5f6e96a4d2994ede389",
+"index.html": "e4fe6e71b70f157a4d889abf597d314f",
+"/": "e4fe6e71b70f157a4d889abf597d314f"
 };
 
 // The application shell files that are downloaded before a service worker can
