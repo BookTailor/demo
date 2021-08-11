@@ -7781,7 +7781,7 @@ case 1:return P.c0(o)}}},t.W2)},
 Kg(){var s=0,r=P.V(t.fk),q,p,o,n,m,l,k,j
 var $async$Kg=P.R(function(a,b){if(a===1)return P.S(b,r)
 while(true)switch(s){case 0:s=3
-return P.a_(G.axF(P.lt("https://scope-website.herokuapp.com/api/book/random")),$async$Kg)
+return P.a_(G.axF(P.lt("https://booktailor.herokuapp.com/api/book/random")),$async$Kg)
 case 3:j=b
 s=j.b===200?4:5
 break
