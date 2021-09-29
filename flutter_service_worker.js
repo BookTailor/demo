@@ -4,8 +4,8 @@ const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 const RESOURCES = {
   "favicon.png": "5dcef449791fa27946b3d35ad8803796",
-"index.html": "fca19501d7d637842897e794812731f4",
-"/": "fca19501d7d637842897e794812731f4",
+"index.html": "444287cce36980b12dd0b340210793c8",
+"/": "444287cce36980b12dd0b340210793c8",
 "assets/NOTICES": "3ca4c6a8df8d9044473a11728de82195",
 "assets/packages/wakelock_web/assets/no_sleep.js": "7748a45cd593f33280669b29c2c8919a",
 "assets/packages/flutter_math_fork/lib/katex_fonts/fonts/KaTeX_Main-Italic.ttf": "ac3b1882325add4f148f05db8cafd401",
@@ -39,7 +39,7 @@ const RESOURCES = {
 "manifest.json": "2df257d70dc949ae49d4762ad69d9f09",
 "icons/Icon-512.png": "96e752610906ba2a93c65f8abe1645f1",
 "icons/Icon-192.png": "ac9a721a12bbc803b44f645561ecb1e1",
-"main.dart.js": "3f7ccc77f308318fb978606e0a2f50a9"
+"main.dart.js": "7d44a8bb0007bc6be89f9a8ed8b0b49c"
 };
 
 // The application shell files that are downloaded before a service worker can
